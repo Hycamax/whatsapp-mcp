@@ -1,3 +1,8 @@
 *.db
 claude_desktop_config.json
 whatsapp.log
+# local build output + backups
+bridge.exe
+*.exe
+*.bak
+whatsapp-bridge/store/
